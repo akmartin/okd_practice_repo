@@ -1,5 +1,5 @@
 <?php
 
-print "Welcome to OCP 1"
+print "Welcome edited OCP"
 
 ?>
